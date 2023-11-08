@@ -1,5 +1,5 @@
 {
-    "name": "los/los-rate-limit",
+    "name": "zooxsmart/los-rate-limit",
     "description": "Rate Limit Middleware for PHP",
     "require": {
         "php": "^8.1",
